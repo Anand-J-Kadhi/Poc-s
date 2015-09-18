@@ -1,9 +1,10 @@
 # Poc-s
 Apigee Rmi server and client is used to demonstrate the client and server relationship in RMI. 
 
-Import both the projects in eclipse 
+Import both the projects in eclipse
 
 Steps to setup Server ::
+
 1> Compile the classes (by default they are auto compiled in eclipse) 
 2> Navigate to ${project-path}/target/classes open cmd and then run this command "rmic DirectoryOperations" 
 3> Open another cmd and type "start rmiregistry"
